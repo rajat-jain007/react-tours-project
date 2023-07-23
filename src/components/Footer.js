@@ -27,7 +27,7 @@ function Footer() {
           })}
         </ul>
         <p class="copyright">
-          copyright &copy; Backroads travel tours company
+          copyright &copy; Rajat
           <span id="date">{new Date().getFullYear()}</span> all rights reserved
         </p>
       </footer>
